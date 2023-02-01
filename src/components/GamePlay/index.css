@@ -1,0 +1,9 @@
+.trigger-button {
+  background-color: #ffffff;
+  color: black;
+  padding: 10px 30px;
+  outline: none;
+  border: none;
+  border-radius: 8px;
+  font-family: 'Bree Serif';
+}
